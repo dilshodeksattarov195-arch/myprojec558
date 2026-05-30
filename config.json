@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartuave",
+        "uuid": 3489174,
+        "checksum": "vjxpu"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
